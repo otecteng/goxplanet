@@ -13,7 +13,7 @@
     android:id="@+id/txtName"
     android:layout_width="fill_parent" 
     android:layout_height="wrap_content" 
-    android:text="名称"
+    android:text="name"
   />  
   <ListView  
     android:id="@+id/lstPositions"
