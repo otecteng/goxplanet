@@ -96,9 +96,9 @@ public class PositionPad extends Activity {
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		super.onCreateOptionsMenu(menu);
-		menu.add(0, ADD_POS, Menu.NONE, "Ìí¼Ó");
-		menu.add(0, RENAME_POS, Menu.NONE, "¸ÄÃû");
-		menu.add(0, DELETE_POS, Menu.NONE, "É¾³ý");
+		menu.add(0, ADD_POS, Menu.NONE, "add");
+		menu.add(0, RENAME_POS, Menu.NONE, "rename");
+		menu.add(0, DELETE_POS, Menu.NONE, "delete");
 		return true;
 	}
 
